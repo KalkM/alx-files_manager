@@ -61,9 +61,7 @@ class UsersController {
   }
 
   /**
-   *
    * Should retrieve the user base on the token used
-   *
    * Retrieve the user based on the token:
    * If not found, return an error Unauthorized with a
    * status code 401
